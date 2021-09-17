@@ -1,0 +1,39 @@
+{
+    "email": "chris@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle": "UX/UI",
+    "name": "Chris Bratt",
+    "phone" : "09896868686"
+}
+
+{
+    "email": "strange@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle": "Golang Dev",
+    "name": "Doctor Strange",
+    "phone" : "0134677777"
+}
+
+{
+    "email": "spider@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar4.png",
+    "jobTitle": "Web Designer",
+    "name": "Tom Holland",
+    "phone" : "06069999"
+}
+
+{
+    "email": "blackwidow@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar6.png",
+    "jobTitle": "Sales",
+    "name": "Scarlett Johansson",
+    "phone" : "04445786"
+}
+
+{
+    "email": "Thor@gmail.com",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar5.png",
+    "jobTitle": "SQL",
+    "name": "Thor",
+    "phone" : "0123555"
+}
